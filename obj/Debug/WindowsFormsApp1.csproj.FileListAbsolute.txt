@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\bin\Debug\WebDriver.dll
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_ablak.resources
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\csharp\valutavalto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
